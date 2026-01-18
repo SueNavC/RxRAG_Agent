@@ -115,6 +115,7 @@ Evidence Chunks
 LLM Generator (RAG Prompt)
    ↓
 Answer + Citations + Metrics
+```
 
 ## Tech Stack
 
